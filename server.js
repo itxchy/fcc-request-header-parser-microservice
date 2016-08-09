@@ -1,6 +1,6 @@
 
 const compression = require('compression');
-const parser    = require('ua-parser-js');
+const parser      = require('ua-parser-js');
 const express     = require('express');
 const app         = express();
 
